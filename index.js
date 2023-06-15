@@ -12,12 +12,12 @@ function adicionarCliente(nome, idade, email) {
     return pessoa
 }
 
-adicionarCliente("Harry Potter", 31, "harry@gmail.com")
-adicionarCliente("Ron Weasley", 20, "ron@gmail.com")
-adicionarCliente("Minerva McGonagall", 38, "minerva@gmail.com")
-adicionarCliente("Hermione Granger", 15, "hermione@gmail.com")
-adicionarCliente("Lord Voldemort", 50, "lordv@gmail.com")
-adicionarCliente("Remo Lupin", 10, "remo@gmail.com")
+adicionarCliente("Patrícia", 31, "pmidori@gmail.com")
+adicionarCliente("Juliana", 20, "ju@gmail.com")
+adicionarCliente("Roberto", 38, "bari@gmail.com")
+adicionarCliente("Marcia", 15, "marcia@gmail.com")
+adicionarCliente("Mari", 50, "mari@gmail.com")
+adicionarCliente("Pedro", 10, "pe@gmail.com")
 
 function exibirClientes() {
 
